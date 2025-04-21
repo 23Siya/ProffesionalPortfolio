@@ -23,4 +23,7 @@ color: #f3f4f6;
       transform: translateX(250%);
     }
   }
+  .animate-loading-bar{
+    animation: loading 0.8s ease infinite;
+  }
 }
